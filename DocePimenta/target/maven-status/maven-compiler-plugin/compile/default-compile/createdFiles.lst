@@ -1,0 +1,6 @@
+com\mycompany\docepimenta\DocePimenta.class
+DTO\CadFornecedorDTO.class
+DAO\FornecedorDAO.class
+DAO\Conexao.class
+DTO\CadProdutoDTO.class
+DAO\ProdutoDAO.class
